@@ -1,0 +1,27 @@
+*{
+	margin:auto;
+	padding:0;
+	box-sizing:border-box;
+}
+
+#container h1 {
+    padding-left:35%;
+	padding-top:50px;
+	font-size:30px;
+}
+#container h2 {
+    padding-left:45%;
+	padding-top:50px;
+	font-size:30px;
+}
+
+#para{
+    padding:35px;
+	font-size:25px;
+    text-indent: 30px;
+}
+.bodycolorchange{
+    padding-left:30%;
+    padding-top:50px;
+	font-size:25px;
+}
